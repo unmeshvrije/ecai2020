@@ -1,4 +1,4 @@
-This repository contains three folders:
+This repository contains four folders:
 
 1. rules : This folder contains datalog programs used.
 
@@ -11,5 +11,5 @@ Query <space> features <space> QSQ-R time <space> MS time <space> 1/0
 3. Models : This folder contains pickled objects for SVM classifier 
 for all datasets.
 
-LUBM(1K), DBpedia and Claros datasets can be downloaded or
-generated as described in the reference paper here https://www.academia.edu/15194149/WebPIE_a_web-scale_parallel_inference_engine
+4. triples : This folder contains freebase and yago triples in the zip format. LUBM(1K), DBpedia and Claros datasets can be downloaded or
+generated as described in the reference paper [here] (https://www.academia.edu/15194149/WebPIE_a_web-scale_parallel_inference_engine)
