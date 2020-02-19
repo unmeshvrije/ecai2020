@@ -1,4 +1,4 @@
-This repository contains four folders:
+This repository contains four folders and the pdf of the extended version of the paper:
 
 1. rules : This folder contains datalog programs used.
 
